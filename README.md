@@ -9,7 +9,25 @@ Chrome Extension that will:
 - List all your Playlists and allow you to search and sort.
 - Adds search and sort to save video to... playlist
 
-## Download YouTube Playlist Search
+## Feature Overview
+
+- List Playlists, Search, Sort.
+  After install, pin YouTube Playlists Search+ Extension (Instructions below)  
+  Navigate to your YouTube Playlist page  
+  Click on the YouTube Playlists Search extension Icon
+
+![Playlist Search Example 1](readme-assets/playlist-search-example-1.png)
+![Playlist Search Example 2](readme-assets/playlist-search-example-2.png)
+
+- Save YouTube Video, Search and Sort your Playlists to Save Video.
+
+![Playlist Save Example 1](readme-assets/playlist-save-example-1.png)
+![Playlist Save Example 2](readme-assets/playlist-save-example-2.png)
+![Playlist Save Example 3](readme-assets/playlist-save-example-3.png)
+
+## INSTALL
+
+## Download YouTube Playlists Search
 
 Options either
 
