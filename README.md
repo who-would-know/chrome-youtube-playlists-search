@@ -21,8 +21,8 @@ Chrome Extension that will:
 
 - Save YouTube Video, Search and Sort your Playlists to Save Video.
 
-![Playlist Save Example 1](readme-assets/playlist-save-example-1.png)
-![Playlist Save Example 2](readme-assets/playlist-save-example-2.png)
+![Playlist Save Example 1](readme-assets/playlist-save-example-1.png)  
+![Playlist Save Example 2](readme-assets/playlist-save-example-2.png)  
 ![Playlist Save Example 3](readme-assets/playlist-save-example-3.png)
 
 ## INSTALL
